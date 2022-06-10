@@ -19,3 +19,7 @@ body {
 table {
     width: 100%;
 }
+
+.exp td {
+    border: 1px solid black;
+}
