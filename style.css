@@ -33,3 +33,11 @@ body {
     color: rgb(29, 29, 27);
     font-weight: bold;
 }
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: whitesmoke;
+    border-width: 5px;
+    width: 30%;
+}
