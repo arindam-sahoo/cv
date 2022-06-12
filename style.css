@@ -29,6 +29,10 @@ body {
     box-shadow: 2px 2px 4px #000000;
 }
 
+#right {
+    margin-left: 40px;
+}
+
 .secondary {
     color: rgb(29, 29, 27);
     font-weight: bold;
