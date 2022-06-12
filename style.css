@@ -9,13 +9,15 @@
 }
 
 a {
-    color: rgb(29, 29, 27);
+    color: rgb(0, 255, 181);
     text-decoration: none;
 }
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: rgb(0, 147, 215);
+    background-color: rgb(16, 14, 15);
+    background-image: url('bg.jpg');
+    background-repeat: no-repeat;
     color: whitesmoke;
 }
 
@@ -34,7 +36,7 @@ body {
 }
 
 .secondary {
-    color: rgb(29, 29, 27);
+    color: rgb(0, 255, 181);
     font-weight: bold;
 }
 
@@ -44,4 +46,8 @@ hr {
     border-color: whitesmoke;
     border-width: 5px;
     width: 30%;
+}
+
+h2 {
+    color: rgb(0, 255, 181);
 }
